@@ -8,15 +8,15 @@ Currently working toward CompTIA Security+ and targeting SOC Analyst / IT Suppor
 
 ### Security Tooling
 
-- [ThreatLens](https://github.com/TiltedLunar123/ThreatLens) — Offline log analysis & threat hunting CLI (EVTX, JSON, Syslog, CEF) with Sigma rules and MITRE ATT&CK mapping
-- [WinRecon](https://github.com/TiltedLunar123/WinRecon) — Windows security auditing & hardening toolkit
-- [SIEMForge](https://github.com/TiltedLunar123/SIEMForge) — Portable SIEM detection toolkit with Sigma rules, Sysmon config, and Wazuh custom rules
+- [ThreatLens](https://github.com/TiltedLunar123/ThreatLens) - Offline log analysis & threat hunting CLI (EVTX, JSON, Syslog, CEF) with Sigma rules and MITRE ATT&CK mapping
+- [WinRecon](https://github.com/TiltedLunar123/WinRecon) - Windows security auditing & hardening toolkit
+- [SIEMForge](https://github.com/TiltedLunar123/SIEMForge) - Portable SIEM detection toolkit with Sigma rules, Sysmon config, and Wazuh custom rules
 
 ### Privacy & Productivity
 
-- [Gmail One-Click Cleaner](https://github.com/TiltedLunar123/gmail-one-click-cleaner) — Chrome extension that bulk-deletes low-value Gmail clutter with safe preset searches
-- [FormVault](https://github.com/TiltedLunar123/FormVault) — Auto-save and restore web form data locally, zero network requests
-- [Ultimate Windows System Optimizer](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer) — PowerShell-based Windows optimization toolkit
+- [Gmail One-Click Cleaner](https://github.com/TiltedLunar123/gmail-one-click-cleaner) - Chrome extension that bulk-deletes low-value Gmail clutter with safe preset searches
+- [FormVault](https://github.com/TiltedLunar123/FormVault) - Auto-save and restore web form data locally, zero network requests
+- [Ultimate Windows System Optimizer](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer) - PowerShell-based Windows optimization toolkit
 
 ## Tech
 
