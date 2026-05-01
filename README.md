@@ -48,7 +48,7 @@ Building security tooling and detection content. **CompTIA Security+ in progress
 ## GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiltedLunar123&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiltedLunar123&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiltedLunar123&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
