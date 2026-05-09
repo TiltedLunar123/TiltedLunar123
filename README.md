@@ -1,7 +1,7 @@
 # Hey, I'm Jude
 
 **Cybersecurity student** at Macomb Community College. AAS expected Jul 2027.  
-Building security tooling and detection content. **CompTIA Security+ in progress.**  
+Detection engineering, Windows security tooling, and home-lab SIEM work. **CompTIA Security+ in progress.**  
 **Open to SOC Analyst / IT Help Desk roles in Metro Detroit.**
 
 ---
@@ -9,18 +9,19 @@ Building security tooling and detection content. **CompTIA Security+ in progress
 ## What I Build
 
 ### Security Tooling
-- [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis & threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
-- [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules.
-- [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing & hardening toolkit.
+- [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
+- [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules, MITRE ATT&CK coverage matrix.
+- [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
+- [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with verified downloads and security hardening.
 
-### Privacy & Productivity
-- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-deletes Gmail clutter with safe preset searches.
-- [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save & restore. Zero network requests.
-- [**Ultimate Windows System Optimizer**](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer): PowerShell-based Windows tuning toolkit.
+### Sysadmin and Automation
+- [**Ultimate Windows System Optimizer**](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer): PowerShell tuning toolkit. Hardware-aware optimization with rollback.
+- [**DNS-Benchmark**](https://github.com/TiltedLunar123/DNS-Benchmark): Benchmarks 17+ DNS resolvers for speed, reliability, and security, then applies the best one.
+- [**Fedora-VirtualBox-Auto-Installer**](https://github.com/TiltedLunar123/Fedora-VirtualBox-Auto-Installer-PowerShell): Automated RHEL-family VM provisioning via PowerShell + Kickstart.
 
-### Sysadmin & Automation
-- [**DNS-Benchmark**](https://github.com/TiltedLunar123/DNS-Benchmark): Benchmarks 17+ DNS resolvers for speed, reliability, and security.
-- [**Fedora-VirtualBox-Auto-Installer**](https://github.com/TiltedLunar123/Fedora-VirtualBox-Auto-Installer-PowerShell): Automated Fedora VM provisioning via PowerShell.
+### Privacy and Productivity
+- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. Listed on the Chrome Web Store.
+- [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save and restore. Zero network requests.
 
 ---
 
@@ -39,9 +40,15 @@ Building security tooling and detection content. **CompTIA Security+ in progress
 ---
 
 ## Currently
-- Studying for **CompTIA Security+**
+- Studying for **CompTIA Security+ (SY0-701)**
 - Writing detection content (Sigma rules, Sysmon configs)
 - Sharpening Linux + Python for SOC workflows
+
+---
+
+## Experience
+- **IT Support, Warren Consolidated Schools (Summer 2025)**: 50+ Windows reimages, classroom hardware support, ticket triage.
+- **Shift Lead, Nekter Juice Bar**: Customer-facing operations, scheduling, point-of-sale troubleshooting.
 
 ---
 
@@ -54,5 +61,5 @@ Building security tooling and detection content. **CompTIA Security+ in progress
 ---
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-hilgendorf-437b843a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-hilgendorf/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilgendorfjude@gmail.com)
