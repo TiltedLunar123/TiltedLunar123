@@ -18,6 +18,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 - [**Ultimate Windows System Optimizer**](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer): PowerShell tuning toolkit. Hardware-aware optimization with rollback.
 - [**DNS-Benchmark**](https://github.com/TiltedLunar123/DNS-Benchmark): Benchmarks 17+ DNS resolvers for speed, reliability, and security, then applies the best one.
 - [**Fedora-VirtualBox-Auto-Installer**](https://github.com/TiltedLunar123/Fedora-VirtualBox-Auto-Installer-PowerShell): Automated RHEL-family VM provisioning via PowerShell + Kickstart.
+- [**pc-worth**](https://github.com/TiltedLunar123/pc-worth): PowerShell tool that detects PC hardware and estimates its resale value.
 
 ### Privacy and Productivity
 - [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. Listed on the Chrome Web Store.
@@ -41,6 +42,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## Currently
 - Studying for **CompTIA Security+ (SY0-701)**
+- Building a mastery-based Security+ study platform with spaced repetition
 - Writing detection content (Sigma rules, Sysmon configs)
 - Sharpening Linux + Python for SOC workflows
 
