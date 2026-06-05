@@ -9,6 +9,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 ## What I Build
 
 ### Security Tooling
+- [**TriageLens**](https://github.com/TiltedLunar123/triagelens) ([live demo](https://triagelens.netlify.app)): AI-assisted SOC alert and log triage. Parses Windows, Sysmon, and Linux logs, maps activity to MITRE ATT&CK, scores risk, and writes analyst-style notes. Deterministic detection engine with an optional AI narrative layer.
 - [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
 - [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules, MITRE ATT&CK coverage matrix.
 - [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
