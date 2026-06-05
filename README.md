@@ -9,7 +9,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 ## What I Build
 
 ### Security Tooling
-- [**TriageLens**](https://github.com/TiltedLunar123/triagelens) ([live demo](https://triagelens.netlify.app)): AI-assisted SOC alert and log triage. Parses Windows, Sysmon, and Linux logs, maps activity to MITRE ATT&CK, scores risk, and writes analyst-style notes. Deterministic detection engine with an optional AI narrative layer.
+- [**TriageLens**](https://github.com/TiltedLunar123/triagelens) ([live demo](https://triagelens.netlify.app)): AI-assisted SOC alert and log triage. Parses Windows Security, Sysmon, and Linux logs, maps activity to MITRE ATT&CK, scores risk 0-100, and writes analyst-style triage reports. Deterministic detection engine with a pluggable AI layer (demo / Ollama / Claude). React + TypeScript.
 - [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
 - [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules, MITRE ATT&CK coverage matrix.
 - [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
@@ -29,6 +29,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
