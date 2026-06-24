@@ -8,6 +8,9 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## What I Build
 
+### Live Product
+- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. Gated lessons, multiple-choice and multi-select quizzing, SM-2 spaced repetition, and a timed 90-question mock exam weighted to match the real SY0-701 domains.
+
 ### Security Tooling
 - [**TriageLens**](https://github.com/TiltedLunar123/triagelens) ([live demo](https://triagelens.netlify.app)): AI-assisted SOC alert and log triage. Parses Windows Security, Sysmon, and Linux logs, maps activity to MITRE ATT&CK, scores risk 0-100, and writes analyst-style triage reports. Deterministic detection engine with a pluggable AI layer (demo / Ollama / Claude). React + TypeScript.
 - [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
@@ -44,7 +47,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## Currently
 - Studying for **CompTIA Security+ (SY0-701)**
-- Building a mastery-based Security+ study platform with spaced repetition
+- Expanding SecPlus Mastery with new question banks and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
 - Sharpening Linux + Python for SOC workflows
 
