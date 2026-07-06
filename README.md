@@ -9,11 +9,12 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 ## What I Build
 
 ### Live Product
-- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. Gated lessons, multiple-choice and multi-select quizzing, SM-2 spaced repetition, and a timed 90-question mock exam weighted to match the real SY0-701 domains.
+- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. Gated lessons, multiple-choice and multi-select quizzing, SM-2 spaced repetition, hands-on labs, PBQs, and a timed 90-question mock exam weighted to match the real SY0-701 domains.
+- [**Security+ Acronyms Cheat Sheet**](https://github.com/TiltedLunar123/security-plus-acronyms-cheat-sheet): Free PDF with every SY0-701 exam acronym, expanded and grouped by topic. No signup.
 
 ### Security Tooling
 - [**TriageLens**](https://github.com/TiltedLunar123/triagelens) ([live demo](https://triagelens.netlify.app)): AI-assisted SOC alert and log triage. Parses Windows Security, Sysmon, and Linux logs, maps activity to MITRE ATT&CK, scores risk 0-100, and writes analyst-style triage reports. Deterministic detection engine with a pluggable AI layer (demo / Ollama / Claude). React + TypeScript.
-- [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping.
+- [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping. On PyPI as `threatlens-cli`.
 - [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules, MITRE ATT&CK coverage matrix.
 - [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
 - [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with verified downloads and security hardening.
@@ -25,7 +26,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 - [**pc-worth**](https://github.com/TiltedLunar123/pc-worth): PowerShell tool that detects PC hardware and estimates its resale value.
 
 ### Privacy and Productivity
-- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. Listed on the Chrome Web Store.
+- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. On the Chrome Web Store with ~480 monthly users.
 - [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save and restore. Zero network requests.
 
 ---
@@ -47,14 +48,14 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## Currently
 - Studying for **CompTIA Security+ (SY0-701)**
-- Expanding SecPlus Mastery with new question banks and lessons
+- Expanding SecPlus Mastery with new question banks, labs, and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
-- Sharpening Linux + Python for SOC workflows
+- Practicing on TryHackMe and Hack The Box (enumeration, privilege escalation, log analysis)
 
 ---
 
 ## Experience
-- **IT Support, Warren Consolidated Schools (Summer 2025)**: 50+ Windows reimages, classroom hardware support, ticket triage.
+- **IT Support Technician (Summer Help), Warren Consolidated Schools (seasonal, 2025 to present)**: 50+ Windows reimages, classroom hardware support, ticket triage, asset tracking.
 - **Shift Lead, Nekter Juice Bar**: Customer-facing operations, scheduling, point-of-sale troubleshooting.
 
 ---
