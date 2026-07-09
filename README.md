@@ -1,7 +1,7 @@
 # Hey, I'm Jude
 
 **Cybersecurity student** at Macomb Community College. AAS expected Jul 2027.  
-Detection engineering, Windows security tooling, and home-lab SIEM work. **CompTIA Security+ in progress.**  
+Detection engineering, Windows security tooling, and home-lab SIEM work. **CompTIA Security+ exam booked for August 2026.**  
 **Open to SOC Analyst / IT Help Desk roles in Metro Detroit.**
 
 ---
@@ -9,7 +9,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 ## What I Build
 
 ### Live Product
-- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. Gated lessons, multiple-choice and multi-select quizzing, SM-2 spaced repetition, hands-on labs, PBQs, and a timed 90-question mock exam weighted to match the real SY0-701 domains.
+- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. 1,000+ questions, gated lessons, SM-2 spaced repetition, hands-on labs covering every SY0-701 objective, PBQs, real-world scenario drills, and a timed 90-question mock exam weighted to match the real exam domains.
 - [**Security+ Acronyms Cheat Sheet**](https://github.com/TiltedLunar123/security-plus-acronyms-cheat-sheet): Free PDF with every SY0-701 exam acronym, expanded and grouped by topic. No signup.
 
 ### Security Tooling
@@ -26,8 +26,11 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 - [**pc-worth**](https://github.com/TiltedLunar123/pc-worth): PowerShell tool that detects PC hardware and estimates its resale value.
 
 ### Privacy and Productivity
-- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. On the Chrome Web Store with ~480 monthly users.
+- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. Also handles subscription unsubscribe, storage cleanup, and one-click restore. 1,000 users and a 4.5-star rating on the Chrome Web Store.
 - [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save and restore. Zero network requests.
+
+### For Fun
+- [**stockfish-chess**](https://github.com/TiltedLunar123/stockfish-chess): Desktop chess GUI built around Stockfish. On first run it detects your CPU and downloads the best engine build for it. Python.
 
 ---
 
@@ -70,3 +73,6 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-hilgendorf/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tiltedlunar123)
+
+I write about my security tooling and detection work on [Dev.to](https://dev.to/tiltedlunar123).
