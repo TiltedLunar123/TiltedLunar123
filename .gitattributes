@@ -1,0 +1,7 @@
+# I work on Windows and the link checker runs on an Ubuntu runner. Without
+# this, a checkout and re-commit here can hand the runner a script full of
+# carriage returns, which fails with a "bad interpreter" that looks like
+# nothing is wrong with the file.
+*.sh text eol=lf
+*.yml text eol=lf
+*.md text eol=lf

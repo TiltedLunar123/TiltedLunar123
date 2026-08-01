@@ -19,15 +19,21 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 - [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
 - [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with verified downloads and security hardening.
 
+### Browser Extensions
+Seven shipped extensions, all Manifest V3. No accounts and no tracking in any of them. Everything except FormVault runs on both Chrome and Firefox.
+- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner) ([Chrome](https://chromewebstore.google.com/detail/bmcfpljakkpcbinhgiahncpcbhmihgpc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gmail-one-click-cleaner/)): Bulk-clears Gmail clutter with safe presets for promos, social, newsletters, no-reply mail, and large attachments. Also handles subscription unsubscribe, storage cleanup, and one-click restore. 1,000 users and a 4.5-star rating on the Chrome Web Store.
+- [**RosterBlur**](https://github.com/TiltedLunar123/rosterblur) ([Chrome](https://chromewebstore.google.com/detail/rosterblur-blur-student-n/dlbanacdgdldjdcnkjhpmhgpaailfcpp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rosterblur/)): Blurs student names before a teacher shares their screen. Built for FERPA-sensitive classroom demos.
+- [**Nocturne**](https://github.com/TiltedLunar123/nocturne): Dark mode that checks whether the site already ships one before repainting anything. Escalation ladder, measured at every rung, instead of one expensive strategy applied to every page.
+- [**Unlock Copy**](https://github.com/TiltedLunar123/unlock-copy): Restores selection, copy, right-click, and keyboard shortcuts on sites that block them. Requests no host access until you point it at a page.
+- [**Fullshot**](https://github.com/TiltedLunar123/fullshot): Full page screenshots that handle sticky headers, lazy images, and app UIs. Editor and PDF export, no account.
+- [**Volume Booster**](https://github.com/TiltedLunar123/volume-booster): Boosts any tab up to 600% from one slider. No build step.
+- [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save and restore, so a crash or a stray back button does not eat what you typed.
+
 ### Sysadmin and Automation
 - [**Ultimate Windows System Optimizer**](https://github.com/TiltedLunar123/Ultimate-Windows-System-Optimizer): PowerShell tuning toolkit. Hardware-aware optimization with rollback.
 - [**DNS-Benchmark**](https://github.com/TiltedLunar123/DNS-Benchmark): Benchmarks 17+ DNS resolvers for speed, reliability, and security, then applies the best one.
 - [**Fedora-VirtualBox-Auto-Installer**](https://github.com/TiltedLunar123/Fedora-VirtualBox-Auto-Installer-PowerShell): Automated RHEL-family VM provisioning via PowerShell + Kickstart.
 - [**pc-worth**](https://github.com/TiltedLunar123/pc-worth): PowerShell tool that detects PC hardware and estimates its resale value.
-
-### Privacy and Productivity
-- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner): Chrome extension that bulk-cleans Gmail with safe presets. Also handles subscription unsubscribe, storage cleanup, and one-click restore. 1,000 users and a 4.5-star rating on the Chrome Web Store.
-- [**FormVault**](https://github.com/TiltedLunar123/FormVault): Local-only web form auto-save and restore. Zero network requests.
 
 ### For Fun
 - [**stockfish-chess**](https://github.com/TiltedLunar123/stockfish-chess): Desktop chess GUI built around Stockfish. On first run it detects your CPU and downloads the best engine build for it. Python.
