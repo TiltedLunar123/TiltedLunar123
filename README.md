@@ -59,7 +59,7 @@ Seven shipped extensions, all Manifest V3. No accounts and no tracking in any of
 - Studying for **CompTIA Security+ (SY0-701)**
 - Expanding SecPlus Mastery with new question banks, labs, and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
-- Practicing on TryHackMe and Hack The Box (enumeration, privilege escalation, log analysis)
+- Running a home SIEM lab (Wazuh, Sysmon, a Windows VM I keep deliberately breaking) and reading the logs back
 
 ---
 
