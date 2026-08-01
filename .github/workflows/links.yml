@@ -1,0 +1,29 @@
+name: Check README links
+
+on:
+  push:
+    paths:
+      - README.md
+      - scripts/check-links.sh
+      - .github/workflows/links.yml
+  pull_request:
+    paths:
+      - README.md
+      - scripts/check-links.sh
+      - .github/workflows/links.yml
+  schedule:
+    # Mondays at 13:00 UTC. This page is almost entirely links to other
+    # people's infrastructure, so it can rot without me touching a thing.
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        run: bash scripts/check-links.sh README.md
