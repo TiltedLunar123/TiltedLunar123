@@ -17,7 +17,7 @@ Detection engineering, Windows security tooling, and SIEM rule writing. **Studyi
 - [**ThreatLens**](https://github.com/TiltedLunar123/ThreatLens): Offline log analysis and threat hunting CLI. EVTX, JSON, Syslog, CEF. Sigma rules + MITRE ATT&CK mapping. On PyPI as `threatlens-cli`.
 - [**SIEMForge**](https://github.com/TiltedLunar123/SIEMForge): Portable SIEM detection toolkit. Sigma rules, Sysmon config, Wazuh custom rules, MITRE ATT&CK coverage matrix.
 - [**WinRecon**](https://github.com/TiltedLunar123/WinRecon): Windows security auditing and hardening toolkit. 20 automated checks, scored report, remediation guidance.
-- [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with verified downloads and security hardening.
+- [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with checked downloads and security hardening.
 
 ### Browser Extensions
 Nine extensions, all Manifest V3. No accounts and no tracking in any of them. Everything except FormVault builds for both Chrome and Firefox.
