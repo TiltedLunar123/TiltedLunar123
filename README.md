@@ -1,7 +1,7 @@
 # Hey, I'm Jude
 
 **Cybersecurity student** at Macomb Community College. AAS expected Jul 2027.  
-Detection engineering, Windows security tooling, and home-lab SIEM work. **Sitting the CompTIA Security+ (SY0-701) exam on August 22, 2026.**  
+Detection engineering, Windows security tooling, and SIEM rule writing. **Studying for the CompTIA Security+ (SY0-701).**  
 **Open to SOC Analyst / IT Help Desk roles in Metro Detroit.**
 
 ---
@@ -59,16 +59,15 @@ Nine extensions, all Manifest V3. No accounts and no tracking in any of them. Ev
 ---
 
 ## Now
-- Sitting **CompTIA Security+ (SY0-701)** on August 22
+- Studying for **CompTIA Security+ (SY0-701)**
 - Expanding SecPlus Mastery with new question banks, labs, and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
-- Running a home SIEM lab (Wazuh, Sysmon, a Windows VM I keep deliberately breaking) and reading the logs back
-- Detonating malware in an isolated lab to see what it leaves behind in the logs
+- Testing those detections in a lab and reading the logs back
 
 ---
 
 ## Experience
-- **IT Support Technician (Summer Help), Warren Consolidated Schools (seasonal, 2025 to present)**: 50+ Windows reimages, classroom hardware support, ticket triage, asset tracking.
+- **IT Support Technician (Summer Help), Warren Consolidated Schools (seasonal, 2025 to present)**: Windows imaging and deployment, classroom hardware support, ticket triage, asset tracking.
 - **Shift Lead, Nekter Juice Bar**: Customer-facing operations, scheduling, point-of-sale troubleshooting.
 
 ---
