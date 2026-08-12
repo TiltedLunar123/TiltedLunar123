@@ -67,7 +67,7 @@ Nine extensions, all Manifest V3. No accounts and no tracking in any of them. Ev
 ---
 
 ## Experience
-- **IT Support Technician (Summer Help), Warren Consolidated Schools (seasonal, 2025 to present)**: Windows imaging and deployment, classroom hardware support, ticket triage, asset tracking.
+- **IT Support Technician (Summer Help), Warren Consolidated Schools (seasonal, 2025 to present)**: 50+ Windows reimages, classroom hardware support, ticket triage, asset tracking.
 - **Shift Lead, Nekter Juice Bar**: Customer-facing operations, scheduling, point-of-sale troubleshooting.
 
 ---
