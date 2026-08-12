@@ -1,7 +1,7 @@
 # Hey, I'm Jude
 
 **Cybersecurity student** at Macomb Community College. AAS expected Jul 2027.  
-Detection engineering, Windows security tooling, and home-lab SIEM work. **CompTIA Security+ exam booked for August 2026.**  
+Detection engineering, Windows security tooling, and home-lab SIEM work. **Sitting the CompTIA Security+ (SY0-701) exam on August 22, 2026.**  
 **Open to SOC Analyst / IT Help Desk roles in Metro Detroit.**
 
 ---
@@ -9,7 +9,7 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 ## What I Build
 
 ### Live Product
-- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. 1,000+ questions, gated lessons, SM-2 spaced repetition, hands-on labs covering every SY0-701 objective, PBQs, real-world scenario drills, and a timed 90-question mock exam weighted to match the real exam domains.
+- [**SecPlus Mastery**](https://secplusmastery.com): A mastery-based CompTIA Security+ study platform I built and run in production. 1,900+ exam-style questions across all 28 SY0-701 objectives, gated lessons, spaced repetition, a hands-on lab for every objective, PBQs, scenario drills, and a timed 90-question mock exam weighted to match the real blueprint.
 - [**Security+ Acronyms Cheat Sheet**](https://github.com/TiltedLunar123/security-plus-acronyms-cheat-sheet): Free PDF with every SY0-701 exam acronym, expanded and grouped by topic. No signup.
 
 ### Security Tooling
@@ -20,8 +20,10 @@ Detection engineering, Windows security tooling, and home-lab SIEM work. **CompT
 - [**WhonixAutoSetup**](https://github.com/TiltedLunar123/WhonixAutoSetup): PowerShell installer for Whonix Gateway and Workstation VMs with verified downloads and security hardening.
 
 ### Browser Extensions
-Seven shipped extensions, all Manifest V3. No accounts and no tracking in any of them. Everything except FormVault runs on both Chrome and Firefox.
-- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner) ([Chrome](https://chromewebstore.google.com/detail/bmcfpljakkpcbinhgiahncpcbhmihgpc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gmail-one-click-cleaner/)): Bulk-clears Gmail clutter with safe presets for promos, social, newsletters, no-reply mail, and large attachments. Also handles subscription unsubscribe, storage cleanup, and one-click restore. 1,000 users and a 4.5-star rating on the Chrome Web Store.
+Nine extensions, all Manifest V3. No accounts and no tracking in any of them. Everything except FormVault builds for both Chrome and Firefox.
+- [**Gmail One-Click Cleaner**](https://github.com/TiltedLunar123/gmail-one-click-cleaner) ([Chrome](https://chromewebstore.google.com/detail/bmcfpljakkpcbinhgiahncpcbhmihgpc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gmail-one-click-cleaner/)): Bulk-clears Gmail clutter with safe presets for promos, social, newsletters, no-reply mail, and large attachments. Also handles subscription unsubscribe, storage cleanup, and one-click restore. 2,000 users and a 4.6-star rating on the Chrome Web Store.
+- [**Clearline**](https://github.com/TiltedLunar123/clearline) ([Chrome](https://chromewebstore.google.com/detail/laoabfbejbfhoeihlobillbnoobiekam), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clearline-discord/)): Search, export, and bulk delete your own Discord messages. It re-checks which account is signed in before every job, so a swapped session cannot delete as somebody else.
+- [**Palisade**](https://github.com/TiltedLunar123/palisade): Content blocker using the same filter syntax as uBlock Origin. Keeps runtime list updates and custom filters working under Manifest V3, where uBO Lite gave them up. A build gate strips filter rules that would inject remote code.
 - [**RosterBlur**](https://github.com/TiltedLunar123/rosterblur) ([Chrome](https://chromewebstore.google.com/detail/rosterblur-blur-student-n/dlbanacdgdldjdcnkjhpmhgpaailfcpp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rosterblur/)): Blurs student names before a teacher shares their screen. Built for FERPA-sensitive classroom demos.
 - [**Nocturne**](https://github.com/TiltedLunar123/nocturne): Dark mode that checks whether the site already ships one before repainting anything. Escalation ladder, measured at every rung, instead of one expensive strategy applied to every page.
 - [**Unlock Copy**](https://github.com/TiltedLunar123/unlock-copy): Restores selection, copy, right-click, and keyboard shortcuts on sites that block them. Requests no host access until you point it at a page.
@@ -45,6 +47,7 @@ Seven shipped extensions, all Manifest V3. No accounts and no tracking in any of
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
@@ -55,11 +58,12 @@ Seven shipped extensions, all Manifest V3. No accounts and no tracking in any of
 
 ---
 
-## Currently
-- Studying for **CompTIA Security+ (SY0-701)**
+## Now
+- Sitting **CompTIA Security+ (SY0-701)** on August 22
 - Expanding SecPlus Mastery with new question banks, labs, and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
 - Running a home SIEM lab (Wazuh, Sysmon, a Windows VM I keep deliberately breaking) and reading the logs back
+- Detonating malware in an isolated lab to see what it leaves behind in the logs
 
 ---
 
