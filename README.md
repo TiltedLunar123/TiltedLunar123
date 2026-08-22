@@ -1,7 +1,7 @@
 # Hey, I'm Jude
 
 **Cybersecurity student** at Macomb Community College. AAS expected Jul 2027.  
-Detection engineering, Windows security tooling, and SIEM rule writing. **Studying for the CompTIA Security+ (SY0-701).**  
+Detection engineering, Windows security tooling, and SIEM rule writing. **CompTIA Security+ certified (SY0-701, August 2026).**  
 **Open to SOC Analyst / IT Help Desk roles in Metro Detroit.**
 
 ---
@@ -58,8 +58,12 @@ Nine extensions, all Manifest V3. No accounts and no tracking in any of them. Ev
 
 ---
 
+## Certifications
+- **CompTIA Security+ (SY0-701)**, passed August 2026. Valid through August 2029.
+
+---
+
 ## Now
-- Studying for **CompTIA Security+ (SY0-701)**
 - Expanding SecPlus Mastery with new question banks, labs, and lessons
 - Writing detection content (Sigma rules, Sysmon configs)
 - Testing those detections in a lab and reading the logs back
